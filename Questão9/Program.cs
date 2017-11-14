@@ -12,7 +12,7 @@ namespace Questão9
             Console.Write("Informe o valor do acréscimo: R$");
             acrescimo = double.Parse(Console.ReadLine());
             Console.Write("O valor de venda será de R${0} ", acrescimo+custo);
-            Console.WriteLine("O bb adiciou");
+            Console.WriteLine("UAU VIVI ESTEVE AQUI E APAGUEI UMA LINHA ANTEIOR QUE ERA UAU BB");
 
         }
     }
